@@ -1,5 +1,6 @@
 .form-group {
     margin-bottom: 15px;
+    
   }
   
   label {
@@ -8,7 +9,6 @@
   }
   
   input[type="text"],
-  input[type="email"],
   input[type="password"] {
     padding: 5px;
     border-radius: 5px;
